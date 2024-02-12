@@ -436,7 +436,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "3D/Lidar PCB.step",
+      "step": "../3D/PhotonLidar PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
