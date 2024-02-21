@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Photon Lidar")
+    (date "2024-02-07")
+    (rev "1.0")
+    (company "Alan Carvalho")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -9108,7 +9115,6 @@
   (group "" (id a562b85c-cca5-4331-896d-8d62161a4c73)
     (members
       7b37fd5d-2f81-4f9e-83d2-e5a2f5627dbd
-      966266da-d9d8-4eb2-9c4c-4493d3492dc3
     )
   )
 )
